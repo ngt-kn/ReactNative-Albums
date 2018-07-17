@@ -24,6 +24,6 @@ const styles = {
         marignRight: 5,
         marginTop: 10
     }
-}
+};
 
 export default Card;
